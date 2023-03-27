@@ -1,0 +1,33 @@
+﻿  HelloWorld.cpp
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(248,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(323,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(563,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(573,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(581,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(593,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(623,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(643,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(654,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(669,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(737,20): warning C4244: 'return': conversion from 'const double' to '__int64', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1516,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1518,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1573,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1582,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1644,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1651,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1673,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1680,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1883,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1898,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1900,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1913,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(1915,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(2077,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(2079,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(2542,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(2543,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(2719,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(2731,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\90542\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(2882,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HelloWorld.vcxproj -> C:\Users\90542\source\repos\HelloWorld\x64\Debug\HelloWorld.exe
